@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  Clock
+
+  Created by LogicalWings Mac on 14/11/18.
+  Copyright © 2018 LogicalWings Mac. All rights reserved.
+*/
+
+
+// ClockViewConreoller
+
+"clockVcTitle" = "Clock";
+
+//AlarmViewController
+
+"alarmVcTitle" = "Alarm";
+
+//StopWatchViewController
+
+"stopwatchVcTitle" = "Stop Watch";
+
+//TimerViewController
+
+"timerVcTitle" = "Timer";
+"invalidTime" = "Countdowm Timer cannot be Empty or 00";
+
+
+//SettingViewController
+
+"settingVcTitle" = "Setting";
+
+
